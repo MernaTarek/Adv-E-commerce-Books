@@ -34,7 +34,7 @@ namespace BookStore_Core_Project
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddDbContext<Data.BISContext>(options => options.UseSqlServer(Configuration.GetConnectionString("BISConnection")));
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

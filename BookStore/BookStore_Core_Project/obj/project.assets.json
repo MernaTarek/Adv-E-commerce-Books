@@ -12225,11 +12225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohamedkhaled\\Desktop\\Halah\\Bookstore\\BookStore_Core-master\\BookStore_Core_Project\\BookStore_Core_Project.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamedkhaled\\Desktop\\Adv-E-commerce-Books\\BookStore\\BookStore_Core_Project\\BookStore_Core_Project.csproj",
       "projectName": "BookStore_Core_Project",
-      "projectPath": "C:\\Users\\Mohamedkhaled\\Desktop\\Halah\\Bookstore\\BookStore_Core-master\\BookStore_Core_Project\\BookStore_Core_Project.csproj",
+      "projectPath": "C:\\Users\\Mohamedkhaled\\Desktop\\Adv-E-commerce-Books\\BookStore\\BookStore_Core_Project\\BookStore_Core_Project.csproj",
       "packagesPath": "C:\\Users\\Mohamedkhaled\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohamedkhaled\\Desktop\\Halah\\Bookstore\\BookStore_Core-master\\BookStore_Core_Project\\obj\\",
+      "outputPath": "C:\\Users\\Mohamedkhaled\\Desktop\\Adv-E-commerce-Books\\BookStore\\BookStore_Core_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

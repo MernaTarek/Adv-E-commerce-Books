@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BookStore_Core_Project</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link href="~/css/templatemo_style.css" rel="stylesheet" type="text/css" />
+
+    
+    
+</head>
+<body>
+    <div id="templatemo_container">
+        <div id="templatemo_menu">
+
+            <ul>
+                <li><a asp-controller="Home" asp-action="Home">Home</a></li>
+                <li><a asp-controller="DBBooks" asp-action="Index">DBBooks</a></li>
+                <li><a asp-controller="Customers" asp-action="index">CustomersDB</a></li>
+                <li><a asp-controller="Search" asp-action="Search">Search</a></li>
+                <li><a asp-controller="Books" asp-action="Books">Books</a></li>
+                <li><a asp-controller="NewRealease" asp-action="New">New Realeases</a></li>
+            </ul>
+        </div>
+        <div id="templatemo_header">
+            <div id="templatemo_special_offers">
+                <p>
+                    <span>25%</span> discounts for
+                    purchase over $80
+                </p>
+                <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
+            </div>
+            <div id="templatemo_new_books">
+                <ul>
+                    <li>Suspen disse</li>
+                    <li>Maece nas metus</li>
+                    <li>In sed risus ac feli</li>
+                </ul>
+                <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
+            </div>
+        </div>
+    </div>
+
+    <partial name="_CookieConsentPartial" />
+    <div>
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; 2018 - BookStore BIS</p>
+        </footer>
+    </div>
+    @RenderSection("Scripts", required: false)
+
+
+</body>
+</html>

@@ -114,3 +114,13 @@ C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Pro
 C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\bin\Debug\netcoreapp2.1\BookStore_Core_Project.Views.pdb
 C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\BookStore_Core_Project.Views.pdb
 C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\BookStore_Core_Project.csproj.CopyComplete
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\BooksDataBase\Create.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\BooksDataBase\Delete.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\BooksDataBase\Details.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\BooksDataBase\Edit.g.cshtml.cs
+C:\Users\Mohamedkhaled\Desktop\Adv-E-commerce-Books\BookStore\BookStore_Core_Project\obj\Debug\netcoreapp2.1\Razor\Views\BooksDataBase\Index.g.cshtml.cs
